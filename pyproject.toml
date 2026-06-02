@@ -1,0 +1,25 @@
+[project]
+name = "dance-tracker"
+version = "0.1.0"
+description = "2026 Dance Lesson Tracker"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "streamlit>=1.35.0",
+    "pandas>=2.2.0",
+    "openpyxl>=3.1.0",
+    "plotly>=5.22.0",
+]
+
+[project.scripts]
+dance-tracker = "dance_tracker.app:main"
+
+[tool.uv]
+package = true
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/dance_tracker"]

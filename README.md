@@ -28,4 +28,7 @@ Build a dance figure reference — editable tables organized by Smooth and Rhyth
 
 A single dance student managing their own training log — someone who values intentional practice and wants their lesson data to inform how they train, not just record that they trained.
 
+**Project Documentation**
+https://www.linkedin.com/posts/juliafsuzuki_agenticai-leanrinpublic-buildinpublic-ugcPost-7467412425969958912-cuWI/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAKSV50B5EY4H9n_WFM5YyX-lpl-IDCFWDo
+
 
